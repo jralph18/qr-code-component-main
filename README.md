@@ -21,8 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://jralph18.github.io/qr-code-component-main/](https://jralph18.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -34,7 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Semantic use of the ```<article>```` tag. 
+Semantic use of the <article> tag. 
 
 Quoting from the official HTML standard:
 
@@ -47,5 +46,3 @@ The article element represents a complete, or self-contained, composition in a d
 ## Author
 
 - Frontend Mentor - [@jralph18](https://www.frontendmentor.io/profile/jralph18)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
