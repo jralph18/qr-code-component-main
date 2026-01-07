@@ -33,7 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Semantic use of the <article> tag. 
+Semantic use of the article tag. 
 
 Quoting from the official HTML standard:
 
